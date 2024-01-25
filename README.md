@@ -1,4 +1,5 @@
-This project was written in TypeScript
+This project was written in TypeScript.
+
 Created API to fetch certain information from multiple different databases and uses them together to display accurate and updated weather and locale data.
 First run "npm install"
 
